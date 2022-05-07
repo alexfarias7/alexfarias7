@@ -1,6 +1,6 @@
- <center>
- ### Hi, I'm Alex farias! 👋
- </center>
+ 
+ # Hi, I'm Alex farias! 👋
+ 
 
 👨‍🎓 I'm a computer engineering student.
 
