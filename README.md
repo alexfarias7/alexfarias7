@@ -14,7 +14,7 @@
 
 📧 Contact: alexfarias44@gmail.com
 
-💻 Languages:  "**Java, Javascript, SQL, , HTML, CSS3**"
+💻 Languages:  "**Java, Javascript,Typescript, SQL, , HTML, CSS3**"
 
 💼 Tools: **" VS Code, , GIT e GitHub"**
 
