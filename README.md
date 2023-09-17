@@ -4,7 +4,7 @@
 
 👨‍🎓 I'm a computer engineering student.
 
-😍I'm currently studying the Front-End development area, where I'm learning HTML, CSS, Javascript, and React.I also study data engineering, as I am a person open to new technologies.
+😍I'm currently studying the Full Stack development area, where I'm learning HTML, CSS, Javascript,Java, C# and React.I also study data engineering, as I am a person open to new technologies.
 
 🧑🏾‍💼At the moment I am open to new opportunities.
 
@@ -14,7 +14,7 @@
 
 📧 Contact: alexfarias44@gmail.com
 
-💻 Languages:  "**Java, Javascript,Typescript, SQL, , HTML, CSS3**"
+💻 Languages:  "**Java,C# Javascript,Typescript, SQL, , HTML, CSS3**"
 
 💼 Tools: **" VS Code, , GIT e GitHub"**
 
